@@ -2,7 +2,7 @@
 
 A clean, responsive sign-up form inspired by modern onboarding experiences. Built with **HTML**, **CSS**, and **JavaScript** — this project includes client-side form validation, error handling, and a mobile-friendly layout.
 
-![screenshot](/src/images/screenshot.png) 
+
 
 ---
 
